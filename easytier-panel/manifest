@@ -1,0 +1,12 @@
+appname      = easytier-panel
+version               = v2.6.4
+desktop_uidir         = ui
+desktop_applaunchname = easytier-panel.Application
+display_name = EasyTier
+desc         = EasyTier网络隧道
+arch         = x86_64
+source       = thirdparty
+maintainer   = ryxiang
+distributor  = ryxiang
+platform              = 
+checksum              = 1dc292bdfe6a90f1f60e9ad8e906a5f9
