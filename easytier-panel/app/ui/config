@@ -1,0 +1,13 @@
+{
+    ".url": {
+        "easytier-panel.Application": {
+            "title": "EasyTier",
+            "icon": "images/icon_{0}.png",
+            "type": "url",
+            "protocol": "",
+            "port": "11211",
+            "url": "/",
+            "allUsers": false
+        }
+    }
+}
