@@ -1,0 +1,16 @@
+{
+  "easytier": {
+    "display_name": "EasyTier 管理面板",
+    "desc": "EasyTier 组网工具的 Web 管理面板，支持状态监控、连接信息、程序上传、日志查看",
+    "labels": "网络,组网,VPN,工具",
+    "version": "1.0.0",
+    "author": "ryxiang",
+    "author_url": "https://github.com/ryxiang",
+    "bug_report_url": "https://github.com/ryxiang/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "1",
+    "history": {
+      "v1.0.0": "初始版本，支持状态监控、连接信息、程序上传、日志查看"
+    }
+  }
+}
