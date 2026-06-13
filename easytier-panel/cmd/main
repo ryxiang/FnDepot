@@ -1,10 +1,10 @@
 #!/bin/bash
 
-LOG_FILE="/vol1/@apphome/easytier-panel/info.log"
+LOG_FILE="/vol1/@appdata/easytier-panel/info.log"
 PID_FILE="/vol1/@apphome/easytier-panel/app.pid"
-CMD="/vol1/@apphome/easytier-panel/app/server/easytier-core"
+CMD="/vol1/@appcenter/easytier-panel/server/easytier-core"
 
-WEB_CMD="/vol1/@apphome/easytier-panel/app/server/easytier-web-embed"
+WEB_CMD="/vol1/@appcenter/easytier-panel/server/easytier-web-embed"
 WEB_PID_FILE="/vol1/@apphome/easytier-panel/web.pid"
 WEB_LOG_FILE="/vol1/@apphome/easytier-panel/web.log"
 
