@@ -1,10 +1,8 @@
 #!/bin/bash
 
-LOG_FILE="${TRIM_PKGVAR}/info.log"
-PID_FILE="${TRIM_PKGVAR}/app.pid"
-
-# write the command to start your program here 
-CMD="${TRIM_PKGVAR}/app/server/easytier-core"
+LOG_FILE="/vol1/@apphome/easytier-panel/info.log"
+PID_FILE="/vol1/@apphome/easytier-panel/app.pid"
+CMD="/vol1/@apphome/easytier-panel/app/server/easytier-core"
 
 WEB_CMD="/vol1/@apphome/easytier-panel/app/server/easytier-web-embed"
 WEB_PID_FILE="/vol1/@apphome/easytier-panel/web.pid"
